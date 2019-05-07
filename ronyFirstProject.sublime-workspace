@@ -391,6 +391,24 @@
 	},
 	"buffers":
 	[
+		{
+			"file": "tasks.todo",
+			"settings":
+			{
+				"buffer_size": 58,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "README.md",
+			"settings":
+			{
+				"buffer_size": 70,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		}
 	],
 	"build_system": "",
 	"build_system_choices":
@@ -403,6 +421,10 @@
 		"last_filter": "",
 		"selected_items":
 		[
+			[
+				"pack",
+				"Package Control: Install Package"
+			],
 			[
 				"Package Control: ",
 				"Package Control: Install Package"
@@ -517,6 +539,7 @@
 	],
 	"file_history":
 	[
+		"/Users/mina/Code/Vue/learn1/First-Project-Ever-/README.md",
 		"/Users/mina/Code/Php/First-Project-Ever-/Classes/init.php",
 		"/Users/mina/Code/Php/First-Project-Ever-/tasks.todo",
 		"/Users/mina/Code/Php/First-Project-Ever-/index.php",
@@ -643,8 +666,7 @@
 		"/Users/mina/Code/October/AbiSayara-Backend/storage/cms/disabled.json",
 		"/Users/mina/Code/October/AbiSayara-Backend/themes/api-sayara/abisyara D7 (Home page v1)/Home.html",
 		"/Users/mina/Code/October/AbiSayara-Backend/themes/api-sayara/pages/our_home.htm",
-		"/Users/mina/Code/October/AbiSayara-Backend/.1.env",
-		"/Users/mina/Code/October/AbiSayara-Backend/plugins/worcbox/apisayara/models/CarGrade.php"
+		"/Users/mina/Code/October/AbiSayara-Backend/.1.env"
 	],
 	"find":
 	{
@@ -679,8 +701,65 @@
 	"groups":
 	[
 		{
+			"selected": 1,
 			"sheets":
 			[
+				{
+					"buffer": 0,
+					"file": "tasks.todo",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 58,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								58,
+								58
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/ToDone/ToDone.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "README.md",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 70,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								70,
+								70
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Markdown/Markdown.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
 			]
 		}
 	],
