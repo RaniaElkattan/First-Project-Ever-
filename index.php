@@ -15,13 +15,13 @@
   </head>
   
   <body>
-    <blockquote>
-      <h1>Hello, Rony!</h1>
+    <div class="jumbotron">
+      <h1>Rony!!</h1>
       
       <p>
-        in this webapp we will test different types of php coding to end up with a good application.
+        light webApp. <small>v.0.1</small>
       </p>  
-    </blockquote>
+    </div>
     
 
     
