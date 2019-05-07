@@ -391,15 +391,6 @@
 	},
 	"buffers":
 	[
-		{
-			"file": "RonyFirstProject",
-			"settings":
-			{
-				"buffer_size": 0,
-				"encoding": "UTF-8",
-				"line_ending": "Unix"
-			}
-		}
 	],
 	"build_system": "",
 	"build_system_choices":
@@ -522,10 +513,14 @@
 	},
 	"expanded_folders":
 	[
-		"/Users/mina/Code/Php/First-Project-Ever-"
+		"/Users/mina/Code/Vue/learn1/First-Project-Ever-"
 	],
 	"file_history":
 	[
+		"/Users/mina/Code/Php/First-Project-Ever-/Classes/init.php",
+		"/Users/mina/Code/Php/First-Project-Ever-/tasks.todo",
+		"/Users/mina/Code/Php/First-Project-Ever-/index.php",
+		"/Users/mina/Code/Php/First-Project-Ever-/RonyFirstProject",
 		"/Users/mina/Code/projects/app/Project.php",
 		"/Users/mina/Code/projects/tasks.todo",
 		"/Users/mina/Library/Application Support/Sublime Text 3/Packages/ToDone/readme.todo",
@@ -649,11 +644,7 @@
 		"/Users/mina/Code/October/AbiSayara-Backend/themes/api-sayara/abisyara D7 (Home page v1)/Home.html",
 		"/Users/mina/Code/October/AbiSayara-Backend/themes/api-sayara/pages/our_home.htm",
 		"/Users/mina/Code/October/AbiSayara-Backend/.1.env",
-		"/Users/mina/Code/October/AbiSayara-Backend/plugins/worcbox/apisayara/models/CarGrade.php",
-		"/Users/mina/Code/October/AbiSayara-Backend/themes/api-sayara/pages/blog/middle.htm",
-		"/Users/mina/Code/October/AbiSayara-Backend/themes/api-sayara/pages/blog/our_index.htm",
-		"/Users/mina/Code/October/AbiSayara-Backend/themes/api-sayara/pages/blog/his_index.htm",
-		"/Users/mina/Code/October/AbiSayara-Backend/plugins/worcbox/apisayara/models/vehicle/fields.yaml"
+		"/Users/mina/Code/October/AbiSayara-Backend/plugins/worcbox/apisayara/models/CarGrade.php"
 	],
 	"find":
 	{
@@ -688,37 +679,8 @@
 	"groups":
 	[
 		{
-			"selected": 0,
 			"sheets":
 			[
-				{
-					"buffer": 0,
-					"file": "RonyFirstProject",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 0,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								0,
-								0
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Text/Plain text.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 0,
-					"type": "text"
-				}
 			]
 		}
 	],
